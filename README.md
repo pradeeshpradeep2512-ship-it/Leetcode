@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0258-add-digits) |
+| [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -45,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
