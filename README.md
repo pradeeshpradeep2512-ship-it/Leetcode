@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2413-smallest-even-multiple](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
