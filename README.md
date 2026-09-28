@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Simulation
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pradeeshpradeep2512-ship-it/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
